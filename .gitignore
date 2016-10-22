@@ -8,6 +8,9 @@ dependency-reduced-pom.xml
 .idea
 *.iml
 
+# Dependencies
+thirdparty
+
 # Misc
 .*.swp
 *~
