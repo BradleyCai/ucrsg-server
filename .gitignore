@@ -1,0 +1,11 @@
+# Artifacts
+*.jar
+*.class
+target
+dependency-reduced-pom.xml
+
+# Misc
+.*.swp
+*~
+*.bak
+
