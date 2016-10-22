@@ -1,18 +1,17 @@
 package org.libucr.course.server;
 
 import org.libucr.course.Course;
+import org.libucr.course.CourseResult;
 import java.util.ArrayList;
 import java.util.List;
 
 public class ScheduleGenerator {
-    public static List<CourseResult> getSchedules(CourseGroup[] groups) {
-        ScheduleGenerator gen = new ScheduleGenerator(groups);
+    private ScheduleGenerator() {
     }
 
-    private final List<Course[]> groups;
-
-    private ScheduleGenerator(List<Course[]> groups) {
-        this.groups = groups;
+    public static List<CourseResult> getSchedules(List<Course[]> groups) {
+        // TODO
+        return null;
     }
 }
 

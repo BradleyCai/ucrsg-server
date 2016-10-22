@@ -1,5 +1,6 @@
 package org.libucr.course.server;
 
+import org.libucr.course.Course;
 import org.libucr.course.CourseQuery;
 import org.libucr.course.SubjectArea;
 
