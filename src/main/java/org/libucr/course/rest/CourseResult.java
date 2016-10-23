@@ -1,4 +1,6 @@
-package org.libucr.course;
+package org.libucr.course.rest;
+
+import org.libucr.course.Course;
 
 public class CourseResult {
     private final Course[] courses;

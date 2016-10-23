@@ -1,7 +1,7 @@
 package org.libucr.course.server;
 
 import org.libucr.course.Course;
-import org.libucr.course.CourseResult;
+import org.libucr.course.rest.CourseResult;
 
 public class ScheduleGrader {
     public ScheduleGrader() {

@@ -8,17 +8,19 @@ The list is ordered with the first having the highest priority and last lowest.
 
 **Example:**
 ```
-[
-    {
-        "subject: "CS",
-    	"id": "14"
-    },
+{
+    "courses": [
+        {
+            "subject: "CS",
+            "id": "14"
+        },
 
-    {
-        "subject": "MATH",
-    	"id": "10A"
-    }
-]
+        {
+            "subject": "MATH",
+            "id": "10A"
+        }
+    ]
+}
 ```
 
 Each course identifier must contain a subject and an id field.
