@@ -4,6 +4,10 @@
 target
 dependency-reduced-pom.xml
 
+# Project files
+.idea
+*.iml
+
 # Dependencies
 thirdparty
 
